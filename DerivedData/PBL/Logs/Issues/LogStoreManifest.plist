@@ -5,7 +5,92 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>357C48E0-DD64-430C-A617-4698BAE7D8A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>357C48E0-DD64-430C-A617-4698BAE7D8A2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>PBL_WatchKit_App-bnyfavolwkpmlycztxmsvlpvtnob</string>
+			<key>timeStartedRecording</key>
+			<real>593869996.840312</real>
+			<key>timeStoppedRecording</key>
+			<real>593869996.85833895</real>
+			<key>title</key>
+			<string>Build target PBL WatchKit App</string>
+			<key>uniqueIdentifier</key>
+			<string>357C48E0-DD64-430C-A617-4698BAE7D8A2</string>
+		</dict>
+		<key>B06A11E7-92D2-450C-A798-7ECEDBFE2C80</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>B06A11E7-92D2-450C-A798-7ECEDBFE2C80.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>PBL_WatchKit_Extension-bnyfavolwkpmlycztxmsvlpvtnob</string>
+			<key>timeStartedRecording</key>
+			<real>593869980.78429401</real>
+			<key>timeStoppedRecording</key>
+			<real>593869984.61070001</real>
+			<key>title</key>
+			<string>Build target PBL WatchKit Extension</string>
+			<key>uniqueIdentifier</key>
+			<string>B06A11E7-92D2-450C-A798-7ECEDBFE2C80</string>
+		</dict>
+		<key>EBBE4F5A-9842-438F-9E16-1B7B03AC38D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>EBBE4F5A-9842-438F-9E16-1B7B03AC38D7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>PBL-bnyfavolwkpmlycztxmsvlpvtnob</string>
+			<key>timeStartedRecording</key>
+			<real>593869996.85971606</real>
+			<key>timeStoppedRecording</key>
+			<real>593869996.898399</real>
+			<key>title</key>
+			<string>Build target PBL</string>
+			<key>uniqueIdentifier</key>
+			<string>EBBE4F5A-9842-438F-9E16-1B7B03AC38D7</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

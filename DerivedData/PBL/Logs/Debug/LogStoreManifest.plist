@@ -5,6 +5,137 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>30520DFE-86BA-4E98-9DBA-AEB641C7A2BA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>30520DFE-86BA-4E98-9DBA-AEB641C7A2BA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Debug PBLtest.PBL.watchkitapp.watchkitextension</string>
+			<key>timeStartedRecording</key>
+			<real>593870011.672701</real>
+			<key>timeStoppedRecording</key>
+			<real>593870121.28704202</real>
+			<key>title</key>
+			<string>Debug PBLtest.PBL.watchkitapp.watchkitextension</string>
+			<key>uniqueIdentifier</key>
+			<string>30520DFE-86BA-4E98-9DBA-AEB641C7A2BA</string>
+		</dict>
+		<key>40859101-A338-4BA8-8F4C-309DF28A1056</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>40859101-A338-4BA8-8F4C-309DF28A1056.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PBL project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PBL</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PBL</string>
+			<key>timeStartedRecording</key>
+			<real>593869987.50995898</real>
+			<key>timeStoppedRecording</key>
+			<real>593870121.90127695</real>
+			<key>title</key>
+			<string>Debug PBL</string>
+			<key>uniqueIdentifier</key>
+			<string>40859101-A338-4BA8-8F4C-309DF28A1056</string>
+		</dict>
+		<key>4D285E99-C782-4D5C-96C6-8B1FBF2EF2F7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4D285E99-C782-4D5C-96C6-8B1FBF2EF2F7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PBL project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PBL</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PBL</string>
+			<key>timeStartedRecording</key>
+			<real>593869632.44196105</real>
+			<key>timeStoppedRecording</key>
+			<real>593869739.02292097</real>
+			<key>title</key>
+			<string>Debug PBL</string>
+			<key>uniqueIdentifier</key>
+			<string>4D285E99-C782-4D5C-96C6-8B1FBF2EF2F7</string>
+		</dict>
+		<key>DA41F5C4-1C92-4A97-BFE6-74EB46A2392A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DA41F5C4-1C92-4A97-BFE6-74EB46A2392A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PBL project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PBL WatchKit App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PBL WatchKit App</string>
+			<key>timeStartedRecording</key>
+			<real>593869996.90834606</real>
+			<key>timeStoppedRecording</key>
+			<real>593870121.02302098</real>
+			<key>title</key>
+			<string>Debug PBL WatchKit App</string>
+			<key>uniqueIdentifier</key>
+			<string>DA41F5C4-1C92-4A97-BFE6-74EB46A2392A</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
